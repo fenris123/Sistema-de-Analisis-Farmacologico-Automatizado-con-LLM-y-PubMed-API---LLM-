@@ -5,6 +5,11 @@ Este proyecto implementa un pipeline automatizado para el análisis de medicamen
 
 El resultado final es un informe estructurado en PDF orientado a un uso técnico, clínico o exploratorio.
 
+PD:  este programa es una fusion,  evolucion y desde luego mejora de 2 proyectos anteriores que pueden consultarse por separado aqui:
+
+https://github.com/fenris123/Python-Using-NCBI-API-to-find-scientific-articles-by-selected-terms
+https://github.com/fenris123/API-LLM-to-obtain-a-resume-about-properties-of-a-medicament
+
 # Funcionalidades
 ## Consulta de datos oficiales
 
