@@ -24,6 +24,7 @@ Indicaciones y posología
 Advertencias
 Traducción farmacológica
 
+
 Traduce el nombre de los principios activos al ingles para facilitar la búsqueda científica posterior.
 
 ## Búsqueda en PubMed
@@ -37,6 +38,7 @@ Un segundo agente LLM evalúa los títulos de los artículos y selecciona los m�
 ## Generación de informe en PDF
 
 Construye automáticamente un informe en formato Quarto (.qmd) y lo renderiza a PDF, incluyendo:
+
 
 Resumen técnico
 Tabla de principios activos
@@ -70,7 +72,6 @@ Python 3.x
 Ollama 
 Quarto
 llama3.1:8b
-
 
 
 # COMO EMPLEARLO
