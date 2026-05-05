@@ -69,8 +69,11 @@ Quarto
 
 ## Requisitos
 Python 3.x
-Ollama 
+
+Ollama
+
 Quarto
+
 llama3.1:8b
 
 
@@ -79,17 +82,27 @@ Introducir el nombre del medicamento
 Seleccionar la presentación concreta del medicamento (Sucede si hay múltiples resultados por ejemplo, presentaciones con distintas dosis, o en capsulas y pastillas)
 
 El sistema:
+
 Consulta AEMPS
+
 Genera resumen con LLM
+
 Traduce principios activos al ingles
+
 Busca artículos en PubMed
+
 Selecciona los más relevantes
+
 Genera informe en PDF
+
 
 ## Salida
 Informe en PDF generado automáticamente
+
 Archivo intermedio .qmd
+
 Salida por consola con resultados y tiempos de ejecución
+
 
 
 # Limitaciones
