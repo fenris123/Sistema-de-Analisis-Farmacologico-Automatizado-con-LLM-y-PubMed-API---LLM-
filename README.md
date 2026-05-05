@@ -52,9 +52,13 @@ Python 3
 ## Librerías principales
 
 requests
+
 ollama
+
 xml.etree.ElementTree
+
 json
+
 subprocess
 
 ## APIs externas
